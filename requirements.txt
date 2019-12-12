@@ -1,0 +1,15 @@
+Which class attribute does your dataset have?  For what business or political purposes would someone be interested in this class attribute?
+List the Minimum, Maximum, Mean, Median, Mode, Q1, Q3, and Standard Deviation for two appropriate attributes.  Which attribute has the smaller standard deviation?
+For each of the attributes above, make a scatterplot and describe in detail how each of the attributes is correlated to the identified class attribute.
+Separate the dataset into 25% training data and 75% test data.  Remove the class attribute values from the test data set.  Then prepare the training data to run with two of the classifiers below.  
+Neural Network
+Naive Bayes
+k Nearest Neighbor
+Random Forest
+          How do the results differ between the these algorithms, and why? 
+
+ Using the test data set you have just generated, remove  the class attribute and run two of the clustering algorithms below.  Produce a biplot to identify attribute-to-attribute clusters
+Hierarchical
+kMeans
+DBScan
+What kinds of business or political decisions could someone make on the basis of your analysis?
